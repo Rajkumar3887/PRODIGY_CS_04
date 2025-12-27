@@ -5,7 +5,7 @@ This project is a basic and ethical keylogger created for educational purposes a
 
 ## Features
 - Logs key presses in real-time
-- Saves logs to `key_log.txt`
+- Saves logs to `keylog_results.txt`
 - Stops when the user presses ESC
 - Built using Python and pynput
 
